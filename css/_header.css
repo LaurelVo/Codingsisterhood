@@ -1,0 +1,36 @@
+.navbar-primary-collapse {
+    background-color: #F1A7A9 !important;
+}
+.navbar {
+    margin-bottom: 0;
+    border: 0;
+}
+
+#menu-primary-menu {
+    text-align: center;
+    font-size: 16px;
+}
+
+.navbar-primary-collapse .container{
+    display: flex;
+    justify-content: center;
+   
+}
+header .site-title {
+    display: flex;
+    justify-content: center;
+
+}
+header .site-logo {
+    width: 200px;
+}
+header .navbar-default .navbar-nav>.active>a {
+    border-radius: 5px;
+    background: #4D4FA1;
+    color: white;
+}
+
+header .navbar-default .navbar-nav a {
+    color:#4D4FA1;
+    
+}
